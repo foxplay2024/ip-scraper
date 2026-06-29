@@ -1,56 +1,34 @@
-162.159.44.3#US-78.48MB/s
-172.64.52.68#US-78.40MB/s
-108.162.198.122#US-78.37MB/s
-162.159.45.216#US-78.33MB/s
-172.64.229.192#US-71.74MB/s
-104.17.120.197#HKG-移动
-104.25.134.141#LAX-联通
-198.41.223.221#SIN-电信
-2606:4700:57::ef16:cf88#HKG-移动
-2606:4700:5c::dc87:bd1d#LAX-联通
-2803:f800:50::39a4:d100#SIN-电信
-99.86.18.91#UNK-移动
-65.8.81.133#UNK-联通
-3.173.195.144#UNK-电信
-2600:9000:2079::5883:554e#UNK-移动
-2600:9000:21d2::4fb7:572b#UNK-联通
-2600:9000:2157::80ac:3705#UNK-电信
-104.18.40.189#电信
-172.64.157.118#联通
-172.64.145.202#移动
-104.18.37.7#AllAvg
+172.64.52.24#US-78.46MB/s
+162.159.38.79#US-78.39MB/s
+172.64.53.15#US-78.33MB/s
+162.159.44.5#US-78.33MB/s
+108.162.198.108#US-74.61MB/s
+104.17.154.36#HKG-移动
+104.17.157.208#SJC-联通
+162.159.2.237#SIN-电信
+2606:4700:9c65::eb2c:e8b0#HKG-移动
+2606:4700:3033::bc09:ea2d#LAX-联通
+2803:f800:53::f2a1:d437#SIN-电信
+13.33.170.198#UNK-移动
+13.35.208.35#UNK-联通
+54.230.0.225#UNK-电信
+2600:9000:20af::3c74:b772#UNK-移动
+2600:9000:27b9::464b:9024#UNK-联通
+2600:9000:2755::82ca:2678#UNK-电信
+104.18.33.198#电信
+104.17.172.124#联通
+104.21.44.253#移动
+104.18.37.133#AllAvg
 0.5.0.0.7.0.f.1.0.7.4.0.1.0.0.2.xzhi.eu.org#优选
 sbmd.5.9.f.6.a.2.8.f.0.7.4.0.1.0.0.2.ip6.arpa#优选
 g.lma.de5.net#优选
-<link rel="icon" type="image/png" href="https://img.icons8.com/pulsar-color/48/ip-address.png">#CF
-border: 0;#CF
-height: 1px;#CF
-background: linear-gradient(to right, transparent, #ccc, transparent);#CF
-margin: 20px 0;#CF
-user-select: none;#CF
-cursor: pointer;#CF
-font-family: Arial, sans-serif;#CF
-background-color: #F5F5F5;#CF
-padding: 0 3%;#CF
-color: #838eb4;#CF
-text-decoration: none;#CF
-padding: 2px 5px;#CF
-border-radius: 3px;#CF
-margin-bottom: 15px;#CF
-margin-bottom: 5px;#CF
-@media (prefers-color-scheme: dark) {#CF
-hm.src = "https://hm.baidu.com/hm.js?7dd7ed0a5e25f4e945738da3329b1c6c";#CF
-<h1 style="font-size: 30px;">IPDB API of <span style="text-decoration: underline; cursor: pointer;"#CF
-onclick="window.open('https://github.com/ymyuuu', '_blank')">Mingyu</span></h1>#CF
-<h2>Disclaimer:</h2>#CF
-<h2>Help Documents:</h2>#CF
-<p>寻找独一无二的<strong>优选域名</strong>？追求一劳永逸的选择？<a href="https://t.me/HeroCore" target="_blank">@HubCore</a></p>#CF
-<h3>Demo:</h3>#CF
-<li><code><a href="https://{dynamicDomain}/?type=bestproxy&country=true"#CF
-<li><code><a href="https://{dynamicDomain}/?type=cfv4;proxy"#CF
-<li><code><a href="https://{dynamicDomain}/?type=bestproxy&down=true"#CF
-<li><code><a href="https://{dynamicDomain}/?type=cfv4;cfv6&down=true"#CF
-<p style="text-align: center;">#CF
-<a href="https://github.com/ymyuuu" target="_blank">GitHub</a> |#CF
-<a href="https://t.me/HeroCore" target="_blank">Telegram</a> |#CF
-<a href="https://api.030101.xyz">API</a>#CF
+104.18.91.162#US
+104.19.151.53#US
+104.16.150.6#US
+104.16.151.218#US
+104.19.42.254#US
+104.17.51.62#US
+104.19.47.148#US
+104.17.53.125#US
+104.17.57.199#US
+104.18.94.120#US
